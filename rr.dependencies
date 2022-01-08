@@ -1,0 +1,7 @@
+[
+  {
+    "remote": "github"
+    "repository": "TheWeaver786/kernel_xiaomi_sm6125-rr",
+    "target_path": "kernel/xiaomi/sm6125"
+  }
+]
